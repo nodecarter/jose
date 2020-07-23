@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/SermoDigital/jose"
+	"github.com/nodecarter/jose"
 )
 
 // Claims implements a set of JOSE Claims with the addition of some helper
